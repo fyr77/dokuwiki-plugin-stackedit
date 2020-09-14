@@ -1,0 +1,7 @@
+base   stackedit
+author Jakob Senkl
+email  js@jakobsenkl.pw
+date   2020-09-14
+name   StackEdit plugin
+desc   Markdown editor with live preview
+url    https://github.com/fyr77/dokuwiki-plugin-stackedit
