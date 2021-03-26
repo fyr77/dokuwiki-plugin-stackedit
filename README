@@ -2,6 +2,9 @@ StackEdit Plugin for DokuWiki
 
 Markdown editor with live preview
 
+DISCLAIMER: I am not currently using DokuWiki anymore. This plugin is essentially unmaintained and will only be updated to make it generally compatible with newer Versions of Dokuwiki.
+If you want to take it over, feel free to create a fork and tell me about it, so I can link to your version.
+
 This plugin is a simple implementation of StackEdit.js by Benoit Schweblin (https://github.com/benweet/stackedit.js). 
 It adds a button to the dokuwiki toolbar to open StackEdit. It is best used in combination with a Markdown plugin like Markdowku (https://www.dokuwiki.org/plugin:markdowku).
 
